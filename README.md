@@ -2,8 +2,6 @@
 
 Quick AI Quiz Maker is a modern, interactive web application that allows users to create, take, and manage quizzes using AI-powered technology. Built with React, TypeScript, and Vite, it provides an intuitive interface for quiz creation and management.
 
-## 🌐 Live Demo
-
 ## ✨ Features
 
 - **AI-Powered Quiz Creation**: Generate quizzes automatically using AI technology
@@ -34,36 +32,6 @@ Quick AI Quiz Maker is a modern, interactive web application that allows users t
 - Node.js (v18 or higher)
 - Bun (or npm/yarn)
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-```
-
-2. Navigate to the project directory:
-```bash
-cd Quick_AI_Quiz_Maker
-```
-
-3. Install dependencies:
-```bash
-bun install
-```
-
-4. Start the development server:
-```bash
-bun run dev
-```
-
-5. Open your browser and visit: `http://localhost:5173`
-
-### Available Scripts
-
-- `bun run dev` - Start the development server
-- `bun run build` - Create a production build
-- `bun run preview` - Preview the production build locally
-- `bun run lint` - Lint the code
 
 ## 📁 Project Structure
 
